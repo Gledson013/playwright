@@ -971,101 +971,101 @@
       "sameSite": "None"
     },
     {
+      "name": "1P_JAR",
+      "value": "2024-03-04-05",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1712122937.300188,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
       "name": "NID",
-      "value": "512=F8vW2hFiX3H8byyg-qyA_XyZ3eRTnUD3HQUMGitqGOWrLWf9F0m_2EW2iI7LWaU1F5j3JkeSBnS0xnb6gUymZ0Y85I3X_6Yyquezv4PfwDSPRGbfEZIOPRTGjaZjvH7TlAHayaD32AJRapiWOCZBJueLcwcbBeTvvg5S76dxUoy16UbC1ERvS1Fo_yJtgmJuv1sQRjBTzW2oY1x1XMmhO9tNW3S-A2iLT96v-uwMO1B2Mx30qg",
+      "value": "512=Gcr6T9yKe7Wr-ckm2n85-lumZzTkuirpOM8C0wL_6FnPBxogvnV1q5Lr9cnHsFY2stdImPi-ZAyNWX8cby4p88vSyIUqxtMuj9Hd6EDVNnGnwSRIwV2_uD-7Q2j6fjhG2MRp_JD7oueZLIvCVlDYyjyuAE_D_WYF6q5dbr8wYnXPAv0SjVfqYuIsjmz6R1F6VDAyzzNqmsxK-385UYzvwGRtQQKrgRbkcZ9RSvy3ShoDisJ8qg",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1725333627.715175,
+      "expires": 1725340796.760302,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "WrCx5x9bwKv0zuYHEU12ur3cBzn2gD71Mal7xec0iSo-1709530149-1.0.1.1-6V6jQK2It8PsnkCGJXCCUkcpc6yYpgz.H6QwC9Nti_EdD_RMTz2J.M63cdclG45lGumTgvRAE94OdptFrcuarQ",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1709531949.640585,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "NID",
-      "value": "512=IhILuixtYLuP4yfISyfQ5Yj_b29emz-M9kIflaCxJ9uzxEAJhz60C7MlMzDCw5RZ8Rh1vcvWBMPJZB81nyG4JE2zYbv21am2xzFzIMu5MPSyf6GjgLKw2NH3pibgBDG5M_83ny1CesluIfooB2tZrQt_Nbstuz24J-AGDfK4uIQBna9BzqHWMnKHxAjdf1D0zHCVZIBAHfgC2m33ImrqEcDcEuS0pSVu1bG13OsHI1fzxvW_WaXX9uvfU79vZ7qJRhNX7g",
+      "value": "512=AOOlZ4xnc8cyZaliC4IzuFCIhGtiMGFF_Th7aGg3_nUY1MyOrNMXdXkv3qi8eeQVcVcTHq3N6Cn7AVHvNXhbBZF2QtPIsokl1dTAGYbsHYeX4Pb2Equ4tIu_q4CE1beBINdctAlqc1A19h69Hqh3iO0Drv43QUXM53XT-YY-LZ4OHL78I2Nyy9yWB8jg5h8CWbOkCCBNbmoFgX4XOtyT_A3QvWmyI9KhDlF7hOzbM3sP94r2uXconmv1uUdEk_bONmCC3w",
       "domain": ".google.com.br",
       "path": "/",
-      "expires": 1725333630.049486,
+      "expires": 1725341353.682831,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "__Secure-1PSIDTS",
-      "value": "sidts-CjEBYfD7Zwnh1JRIRUJSRRY9qCErd1uOV02UPZPmmF26w-gxaR2bMCej-W3HB00qKvzDEAA",
+      "value": "sidts-CjEBYfD7Z0JkwUekm2opoUMHe_byUmO0r5J_Lc6fapz4rXJnvSeoBKNvJ4ghFNeuwVeiEAA",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1741060532.577227,
+      "expires": 1741066940.377912,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "__Secure-3PSIDTS",
-      "value": "sidts-CjEBYfD7Zwnh1JRIRUJSRRY9qCErd1uOV02UPZPmmF26w-gxaR2bMCej-W3HB00qKvzDEAA",
+      "value": "sidts-CjEBYfD7Z0JkwUekm2opoUMHe_byUmO0r5J_Lc6fapz4rXJnvSeoBKNvJ4ghFNeuwVeiEAA",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1741060532.577363,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "1P_JAR",
-      "value": "2024-03-04-04",
-      "domain": ".google.com.br",
-      "path": "/",
-      "expires": 1712117001.96331,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "__cf_bm",
-      "value": "3gyB7RnBGKIomV5ITnreSVZncDH6UspXytQOPvQnbWQ-1709524964-1.0.1.1-RWjxB0DwzhXZpqWGf35.VbOc98TeKsSDgaaapnbVbWjkswoQU40aIBlMZtxXhBwLkvuikhbpGNTSQH6lkVXjCw",
-      "domain": ".leroymerlin.com.br",
-      "path": "/",
-      "expires": 1709526764.320212,
+      "expires": 1741066940.378087,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "CONSISTENCY",
-      "value": "AK7wllH0LijfGnNGC9rrMtk7D9-Rtn_c887mygX5ntkJ94zm2v5D0f6Oy73ZmZSMJmSl9Y84YtIZg6j72tL-xdH1H0-_MWv7XHmkk0IHcI1llINGMHuYSWX2b-tlHXt7EyQlmhzj4CC6QXPC8JJ8hVbd6lx7DR7pFA==",
+      "value": "AK7wllEdeASqaLKrx2Hje1wwZoOKsqr-dTU2j0Ne6rUFo5DX516F-pf21l1vrOl3vak_d5Gq8VjKa8RRyucMiDQUHgwWEBR_pu31W6KBLQbs9oY4HXttKdrIHC6f-QJyBXIxZbiM_JnfjkL20jhZeZtNQFPotD8rlQ==",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1709525309.036689,
+      "expires": 1709531244.114409,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "SIDCC",
-      "value": "AKEyXzWQOa2Mx_MR4XjlsDe6doKjFa6h3v1QxtOdaK_4Ble3_tVYAfGFe--Hcrn53Hi8NNL-OII",
+      "value": "AKEyXzWiuhEuA62Z50MPCB-MRw4CLoPhViCGzwQeVS6-Rx6xJgD89CwdW5aL23bBLMdD_zlJMvo",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1741061009.35549,
+      "expires": 1741066953.988156,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "__Secure-1PSIDCC",
-      "value": "AKEyXzVjTQ5D8hZaZ-PTSFfqSKDiCoeYxzZvmt1cR-4LPOT7ubTVy_MUit_B4pcvwjd-jTerrA",
+      "value": "AKEyXzVhoywkRNbYQS5K9-m6l0Smriv12unc5JgA-hYoDZecxSLS-06UL1YHftuwviWiEKSLjw",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1741061009.355681,
+      "expires": 1741066953.98828,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "__Secure-3PSIDCC",
-      "value": "AKEyXzUbJgUKTe-fFctCDhK6ejTIfSHWj0uqFGw9RDttQNdGzHm0-w2cPD0yDOSdiyFy9c-vV3M",
+      "value": "AKEyXzXRPkuzUfMGEjUCCro_T7IIf1q58RfVUDS7lqIRKKy1RkIZG_cYHn8jCfW_fJElV-ISrX8",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1741061009.355721,
+      "expires": 1741066953.988335,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
@@ -1258,20 +1258,20 @@
       "origin": "https://www.google.com.br",
       "localStorage": [
         {
-          "name": "_c;;i",
-          "value": "p:*|l:9007199254740991_534"
+          "name": "LH;;s-OF_lZYajLb7Q1sQP3quEkAg-dt-2",
+          "value": "p:m|l:630_{\"payload\":\"&v=t1&ei=OF_lZYajLb7Q1sQP3quEkAg&im=M&pv=0.7310626868837522&me=10:1709530938053,V,0,0,0,0:436,e,U\",\"ka\":1709530938489}"
         },
         {
-          "name": "LH;;s-CUjlZfW4FZ7L1sQPuI6GkAE-dt-2",
-          "value": "p:m|l:533_{\"payload\":\"&v=t1&ei=CUjlZfW4FZ7L1sQPuI6GkAE&im=M&pv=0.3349117897224716&me=10:1709525002702,V,0,0,0,0:416,e,U\",\"ka\":1709525003119}"
+          "name": "_c;;i",
+          "value": "p:*|l:9007199254740991_631"
+        },
+        {
+          "name": "sb_wiz.zpc.gws-wiz.",
+          "value": "{\"0\":[[\"microsoft\",35,[362,39],{\"du\":\"/complete/deleteitems?client=gws-wiz&delq=microsoft&deltok=AMc44K7hbXR41UwdY81IW5Ezcwr-vD-Svw\",\"zf\":27}]],\"1\":{\"q\":\"E5sx1ADSQkBrsE3hEdRjOzOVVJ8\"}}"
         },
         {
           "name": "sb_wiz.ueh",
           "value": "a025efd7603cb281257e96bfebd76eb26385fb1f"
-        },
-        {
-          "name": "sb_wiz.zpc.gws-wiz.",
-          "value": "{\"0\":[[\"microsoft\",35,[362,39],{\"du\":\"/complete/deleteitems?client=gws-wiz&delq=microsoft&deltok=AMc44K7hbXR41UwdY81IW5Ezcwr-vD-Svw\",\"zf\":27}]],\"1\":{\"q\":\"EmW9uYdRYdxnVtrpVwrY3l6upmA\"}}"
         }
       ]
     },
@@ -1293,7 +1293,7 @@
       "localStorage": [
         {
           "name": "nextRotationAttemptTs",
-          "value": "1709525132331"
+          "value": "1709531540168"
         }
       ]
     },
@@ -1302,7 +1302,7 @@
       "localStorage": [
         {
           "name": "pse/591286274::[[31,4],\"103305048617540229755\"]",
-          "value": "CiBbWzMxLDRdLCIxMDMzMDUwNDg2MTc1NDAyMjk3NTUiXRIkCgIIBBIVMTAzMzA1MDQ4NjE3NTQwMjI5NzU1GLiZoSIYwNBoGIaU6bzgMSIKNm9rdXQxYXE4eQ=="
+          "value": "CiBbWzMxLDRdLCIxMDMzMDUwNDg2MTc1NDAyMjk3NTUiXRIkCgIIBBIVMTAzMzA1MDQ4NjE3NTQwMjI5NzU1GMDQaBi4maEiGLT4jL/gMSIKZjQyZWI2cWVycA=="
         }
       ]
     }
