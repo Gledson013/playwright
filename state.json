@@ -1,0 +1,1310 @@
+{
+  "cookies": [
+    {
+      "name": "taboola_session_id",
+      "value": "v2_c5766d43be60312789808e6a70a03faf_79db4f12-d801-4060-81f2-c71e5da89d74-tuctcde167e_1709499439_1709500099_CNawjgYQsfZbGKnYlbHgMSAEKAMwHzjb1AdAgIgQSKOl2wNQ____________AVgAYABojrvQyZ2bmJBzcAE",
+      "domain": ".taboola.com",
+      "path": "/raccoon-leroymerlin-br-sc/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__utma",
+      "value": "61317162.1328332851.1709504909.1709504909.1709504909.1",
+      "domain": ".workspace.google.com",
+      "path": "/products/calendar/",
+      "expires": 1744067309.09311,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utmc",
+      "value": "61317162",
+      "domain": ".workspace.google.com",
+      "path": "/products/calendar/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utmz",
+      "value": "61317162.1709504909.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+      "domain": ".workspace.google.com",
+      "path": "/products/calendar/",
+      "expires": 1725275309,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "APPS_MARKETING_SIGNALS",
+      "value": "source%3D%26lastExperiment%3D%26allExperiments%3D",
+      "domain": "workspace.google.com",
+      "path": "/products/calendar",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09AOiBZID8vIvkrISJHeKGlcvycckVrvSynA14l4jErXs9dbiiRKFP-TTjAm1cQvitRVHTxfYZ14LiqeobGKT1qQo",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1725052107.050229,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "region",
+      "value": "baixada_santista",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1744038140.280492,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "region_name",
+      "value": "Baixada%20Santista",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1744038140.280722,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "location_source",
+      "value": "cloudflare",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1744038140.280738,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ALGOLIA",
+      "value": "anonymous-241a7a5e-007c-41a9-bcc7-f90d1026d4fb",
+      "domain": "www.leroymerlin.com.br",
+      "path": "/",
+      "expires": 1725030141,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GTMUtmTimestamp",
+      "value": "1709478141328",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1725030141,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "GTMUtmSource",
+      "value": "(direct)",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1725030141,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "GTMUtmMedium",
+      "value": "(none)",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1725030141,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1253385517.1709478141",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1717254141,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AwinChannelCookie",
+      "value": "other",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1709586498,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "BVBRANDID",
+      "value": "9f3cb3aa-6a44-40bd-8c2c-f44f31ef4ec9",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1741014141,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ttp",
+      "value": "2dBOjj0YlCrq8YbVW9lqjmWjd1v",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1743196098.76912,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "user_unic_ac_id",
+      "value": "41af9da4-6adc-f952-3fba-3790016245bd",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1712156541,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "advcake_trackid",
+      "value": "58ab10db-550a-ff7f-c15c-507fc0a0f267",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1712156541,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.1744816788.1709478142",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1709586500,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "t_gid",
+      "value": "79db4f12-d801-4060-81f2-c71e5da89d74-tuctcde167e",
+      "domain": ".taboola.com",
+      "path": "/",
+      "expires": 1741036106.847486,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "t_pt_gid",
+      "value": "79db4f12-d801-4060-81f2-c71e5da89d74-tuctcde167e",
+      "domain": ".taboola.com",
+      "path": "/",
+      "expires": 1741036106.847701,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".taboola.com",
+      "path": "/",
+      "expires": 1741036106.622743,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "rmuid",
+      "value": "f0b675ed-c8a0-4400-973a-0735ce17612a",
+      "domain": ".linksynergy.com",
+      "path": "/",
+      "expires": 1741016345.957236,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "07F6B1B3FA816FDA3FA5A584FB956ECB",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1743174143.221469,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".bat.bing.com",
+      "path": "/",
+      "expires": 1710082943.221549,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lantern",
+      "value": "c939ea30-9982-4da9-8f1b-bc0a9015b66f",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1712070142,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_tt_enable_cookie",
+      "value": "1",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1743174142,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ttp",
+      "value": "Gr9YaA8l7J3hOvHPnZnMkYBKx5g",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1743174142,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pin_unauth",
+      "value": "dWlkPU1XRmlaVFV4TnpJdE5EZ3dZaTAwWkdJMExUa3lOV1F0WW1Fd01UazVPVEU1TVRBeQ",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1741036101,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.2.1709478142556.1242588590",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1717276106,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ar_debug",
+      "value": "1",
+      "domain": ".pinterest.com",
+      "path": "/",
+      "expires": 1741036101.045765,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "userId",
+      "value": "14153225754",
+      "domain": "citydsp.com",
+      "path": "/",
+      "expires": 1725030142.94173,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cfruid",
+      "value": "355e613e2d87327b359b11af90911a55845d68a2-1709478143",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "analytic_id",
+      "value": "1709478144011453",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1744038144.011774,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2024-03-03T15:02:24.897Z",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1741014144,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MSPTC",
+      "value": "_GZTJNawaI_utka6Oipn6V5NkMYJFebJqIDfOzJKGEA",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1743174290.104071,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSessionUser_14486",
+      "value": "eyJpZCI6IjQ1MTI5ZTYzLTczOWEtNTJiOC1iOTI4LThiYzE3ZmZmNmVmNiIsImNyZWF0ZWQiOjE3MDk0NzgxNDIyMjMsImV4aXN0aW5nIjp0cnVlfQ==",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1741036100,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bId",
+      "value": "HLEX_65e4919446a4e5.89103383",
+      "domain": ".zenaps.com",
+      "path": "/",
+      "expires": 1741036105.995188,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bId",
+      "value": "HLEX_65e4919446a4e5.89103383",
+      "domain": ".awin1.com",
+      "path": "/",
+      "expires": 1741021736.523033,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "xcntUt",
+      "value": "y7112210f47de98115",
+      "domain": ".cnt.my",
+      "path": "/",
+      "expires": 1709564851.811327,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "fr",
+      "value": "0IqtisVBDluSuDK3F..Bl5JzD...1.0.Bl5JzD.",
+      "domain": ".facebook.com",
+      "path": "/",
+      "expires": 1717257155.554065,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_derived_epik",
+      "value": "dj0yJnU9ejJvclhHU3I1TUQyd1YyYmJzRW0yRFNFOGlIeW9IWTYmbj1PMlFld08xRll3bkVCeWd2b0w1TmpBJm09MTAmdD1BQUFBQUdYa25TSSZybT0xMCZydD1BQUFBQUdYa25TSSZzcD0x",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1741017250,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cf_clearance",
+      "value": "1xhvshkgagZ88i2AMcE4QtD3H3hWRybePXxtzP1sPeg-1709499438-1.0.1.1-E97eAbFl.IPIFBXZOaGzaU_TN2YZlruM1x8IdzlBz7bsswUAaJwqxhLvSyDkX_MJMWi2YizZTCtSEm11Vr0hig",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1741035438.047168,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "eyJpdiI6ImhOakJ2czM4YzRLSmRhUHN3ekVZalE9PSIsInZhbHVlIjoiNEpId3lSeE4vU3RFZFpEc3JHMG1mQzhZMm9NUEc1VExpMTdBOS9tZ3Q4cWNuVUV6UjVRRnNremVLcUV3a0VlLyIsIm1hYyI6ImQ0NmNjNmZjNmYyYmExM2RjYmFiYjdkOWM4N2YzMTZiNWMyNGU0YmY3YmE1YjgyNDExNjM5Y2MxYTZmODIyZjQiLCJ0YWciOiIifQ%3D%3D",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1709543298.511537,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "leroy_session",
+      "value": "eyJpdiI6IlJhK3RHQ1VGNVV4bFZLMnY1TnBsaUE9PSIsInZhbHVlIjoiWHIwK3o3aUdTWDFuUC9wMUgvNVM5c29LOFdKZ1pnUmMxcUpxRklhYk5PRnlDK0lRZHo0dlV3VVlDYkhZTThscyIsIm1hYyI6ImI2NjU3MGRhNjAyYTVlOGY3MTBkYWU3ODIwNGNmNDEzNDA1NWUzMjkxYjMxOGMxZDllY2I2OTlmNWM1NmY1ODMiLCJ0YWciOiIifQ%3D%3D",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1709543298.511605,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lmcv",
+      "value": "eyJpdiI6ImVOQ3RPUG1EeVo1MWhvYmV1cE5QN0E9PSIsInZhbHVlIjoiOGlUY2YyRzNnUnY0TExGQXFDNDZSUT09IiwibWFjIjoiNTY3YWQyNGFlMzg2ZGNhOTgxZjJiN2IwMWU4ZWNhMTJmYjg1ZGQ0ZmRmOTFkNGI0OGQ5YWRlMDZmMjA3ZDkxZCIsInRhZyI6IiJ9",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1744060098.511686,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetsid",
+      "value": "099d53e0d96f11ee97f15d288485130b",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1709586500,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetvid",
+      "value": "099d7e40d96f11eea0d25b58f7bf9249",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1743196100,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1613221862.1709478142",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1744060100.270076,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_H3FWJKTQEQ",
+      "value": "GS1.1.1709499439.3.1.1709500100.4.0.0",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1744060100.285493,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Sun+Mar+03+2024+18%3A08%3A20+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202308.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ea6aaa97-db8f-44dc-a980-7018d703fc87&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A1%2CC0003%3A1%2CC0002%3A1&geolocation=BR%3BSP&AwaitingReconsent=false",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1741036100,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "crmback-session",
+      "value": "U2FsdGVkX1+SM2B0fBcJ2Mn6k0+bCbIJRfuzO7qqFj525etvog8K1sF2FSuiGG5qyuj/axV74Qcjq7QFcxrP8A==",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1741036105,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1908597533.1709504911",
+      "domain": ".workspace.google.com",
+      "path": "/",
+      "expires": 1717280911,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utma",
+      "value": "61317162.1328332851.1709504909.1709504909.1709504909.1",
+      "domain": ".workspace.google.com",
+      "path": "/",
+      "expires": 1744067311.773418,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utmc",
+      "value": "61317162",
+      "domain": ".workspace.google.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utmz",
+      "value": "61317162.1709504909.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+      "domain": ".workspace.google.com",
+      "path": "/",
+      "expires": 1725275311,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1725059310.495215,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.1176124232.1709504912",
+      "domain": ".workspace.google.com",
+      "path": "/",
+      "expires": 1709593711,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUlwZsc8Hj3OPfchJyPqKZy7jvk2ulDId4i_xAidA3LXrWZ63trOHnXmGTRfvuU",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1744066215.731694,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.3.1775298831.1709504912",
+      "domain": ".workspace.google.com",
+      "path": "/",
+      "expires": 1744067311.767053,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_FWCBRW1RY8",
+      "value": "GS1.1.1709504911.1.1.1709507311.0.0.0",
+      "domain": ".workspace.google.com",
+      "path": "/",
+      "expires": 1744067311.783562,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OTZ",
+      "value": "7453389_68_64_73560_68_416340",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1712099312,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SID",
+      "value": "g.a000hAh5Un2iXe4v4ABIYDtEpyZdWWQKUVm27X4kApgOfrL1SK1gdnmM37fEb0-T5HcsD5xqvQACgYKAcISAQASFQHGX2Miln0PBqoZODZEaMUsPbOkoRoVAUF8yKryAuSD92mR4XwCT1zkaOhR0076",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1744067318.445097,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PSID",
+      "value": "g.a000hAh5Un2iXe4v4ABIYDtEpyZdWWQKUVm27X4kApgOfrL1SK1gbbVuwdB3u046kGXt3ofNpgACgYKARQSAQASFQHGX2MiUSImuMqDiOA4mAXwlWIt6hoVAUF8yKrIAUxgaBBNhu9edVdoPsvq0076",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1744067318.445118,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSID",
+      "value": "g.a000hAh5Un2iXe4v4ABIYDtEpyZdWWQKUVm27X4kApgOfrL1SK1gf26RjjliRqUEJwIkcaLxYgACgYKAfwSAQASFQHGX2MibPy5c3eZnOEdAKGvPeJC0xoVAUF8yKqMLF7wfR0NxWbc8X7Rgx6e0076",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1744067318.44514,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "HSID",
+      "value": "ApxBgJXFYTiOH4tqt",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1744067318.44523,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SSID",
+      "value": "Aur4wUmtgkEzyO_Sj",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1744067318.445249,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "APISID",
+      "value": "eXIthoYyEj6Qsxbm/A7k_4oKHREQWgWdK4",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1744067318.445267,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SAPISID",
+      "value": "U2u47f6-nzK5BYcR/AnPYX8kK3DYX7vYfX",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1744067318.445286,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PAPISID",
+      "value": "U2u47f6-nzK5BYcR/AnPYX8kK3DYX7vYfX",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1744067318.445305,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PAPISID",
+      "value": "U2u47f6-nzK5BYcR/AnPYX8kK3DYX7vYfX",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1744067318.445326,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "LSID",
+      "value": "o.calendar.google.com|s.BR|s.youtube:g.a000hAh5Ug5vC0HThoDnW3foIaZ1J_BzCDFPNXRqXHqHnPdeTQ_fwsS-EkymmkWfXrKBuJs-hwACgYKAVYSAQASFQHGX2MilAyqsjbyWdGpP-2fkLGmmBoVAUF8yKpbnzhwOx1zCVHITuKOcG0G0076",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1744067318.706741,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-1PLSID",
+      "value": "o.calendar.google.com|s.BR|s.youtube:g.a000hAh5Ug5vC0HThoDnW3foIaZ1J_BzCDFPNXRqXHqHnPdeTQ_fjFUtgn18Tl_3FqNMyYdGwwACgYKAXYSAQASFQHGX2MipRoXdRkv2DERDH2dVz4HsRoVAUF8yKpEFPqqaX4ZTZoaTpepFsPg0076",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1744067318.706873,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-3PLSID",
+      "value": "o.calendar.google.com|s.BR|s.youtube:g.a000hAh5Ug5vC0HThoDnW3foIaZ1J_BzCDFPNXRqXHqHnPdeTQ_fmnNDaYAzqrSbVc-ABYN3hwACgYKAagSAQASFQHGX2MiISPJtD4zH_qRvyaxns7xnxoVAUF8yKoIGTLwMLigQ7z3cuTsRa4V0076",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1744067318.70691,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ACCOUNT_CHOOSER",
+      "value": "AFx_qI45L42nNHsarjdhgl0tJG8nENErhNhFjAwS1t7jX1MKKukKLOg-Auh7TeT9q5L1yYM-OmvzMeBmgHhKHXNf1n3SuyGqIrrynHLzpyQ5cP69iT06T1UDpSCb0u9cuOiahd-yYyPm2Vy7NyXh_06PcUsLOxJPRQ",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1744067318.706945,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OSID",
+      "value": "g.a000hAh5UttCstsesivp6gd5eDgBAux7aPHMfFSqOpLODeLKw6Td8l9x8F8aHxDOBvb0QT3oaQACgYKAeASAQASFQHGX2MiNnRAdRnOhBWUiwX8FmIWVhoVAUF8yKoeb2ffOCVD7y60TaWm7_2l0076",
+      "domain": "calendar.google.com",
+      "path": "/",
+      "expires": 1744067318.960664,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-OSID",
+      "value": "g.a000hAh5UttCstsesivp6gd5eDgBAux7aPHMfFSqOpLODeLKw6TdBI6gbH6FesvJepgIc6w-4wACgYKAaUSAQASFQHGX2Mi6c2tu2OsPoCGJjMoZe034xoVAUF8yKpOQxEglQ-1LqEJmjNFw0ny0076",
+      "domain": "calendar.google.com",
+      "path": "/",
+      "expires": 1744067318.960936,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AEC",
+      "value": "Ae3NU9MXlGUnZuRsbaLkybipfSz-zhKrCOxaGoNXf-o8yRaCi7WmDkdoaEA",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1725059787.879597,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OGPC",
+      "value": "19037049-1:",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1712099787,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OTZ",
+      "value": "7453396_68_64_73560_68_416340",
+      "domain": "ogs.google.com.br",
+      "path": "/",
+      "expires": 1712099787,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-GAPS",
+      "value": "1:IG9KK4pKL8C6Rgqlg7ZcBzNSYi5wdw:KHIVb2_AIWLDdEjr",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1744067788.561856,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "HSID",
+      "value": "AG17r9CjyaChvnVDk",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1744067788.781664,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SSID",
+      "value": "A-_pWBxkpO2YM6kQ4",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1744067788.781821,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "APISID",
+      "value": "eXIthoYyEj6Qsxbm/A7k_4oKHREQWgWdK4",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1744067788.781867,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SAPISID",
+      "value": "U2u47f6-nzK5BYcR/AnPYX8kK3DYX7vYfX",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1744067788.781908,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PAPISID",
+      "value": "U2u47f6-nzK5BYcR/AnPYX8kK3DYX7vYfX",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1744067788.781947,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PAPISID",
+      "value": "U2u47f6-nzK5BYcR/AnPYX8kK3DYX7vYfX",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1744067788.781987,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SID",
+      "value": "g.a000hAh5Un2iXe4v4ABIYDtEpyZdWWQKUVm27X4kApgOfrL1SK1gdnmM37fEb0-T5HcsD5xqvQACgYKAcISAQASFQHGX2Miln0PBqoZODZEaMUsPbOkoRoVAUF8yKryAuSD92mR4XwCT1zkaOhR0076",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1744067788.782084,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PSID",
+      "value": "g.a000hAh5Un2iXe4v4ABIYDtEpyZdWWQKUVm27X4kApgOfrL1SK1gbbVuwdB3u046kGXt3ofNpgACgYKARQSAQASFQHGX2MiUSImuMqDiOA4mAXwlWIt6hoVAUF8yKrIAUxgaBBNhu9edVdoPsvq0076",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1744067788.78216,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSID",
+      "value": "g.a000hAh5Un2iXe4v4ABIYDtEpyZdWWQKUVm27X4kApgOfrL1SK1gf26RjjliRqUEJwIkcaLxYgACgYKAfwSAQASFQHGX2MibPy5c3eZnOEdAKGvPeJC0xoVAUF8yKqMLF7wfR0NxWbc8X7Rgx6e0076",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1744067788.782205,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SEARCH_SAMESITE",
+      "value": "CgQIyZoB",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1725059788.966936,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "OTZ",
+      "value": "7453399_68_64_73560_68_416340",
+      "domain": "contacts.google.com",
+      "path": "/",
+      "expires": 1712099943,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OTZ",
+      "value": "7453399_68_64_73560_68_416340",
+      "domain": "ogs.google.com",
+      "path": "/",
+      "expires": 1712099944,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OTZ",
+      "value": "7453466_68_64_73560_68_416340",
+      "domain": "tasks.google.com",
+      "path": "/",
+      "expires": 1712103985,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "COMPASS",
+      "value": "calendar=CgAQzviUrwYaXwAJa4lXIoSJtxqrlLjNjXrAwOt34zmJ_OuQo_v0GDfGPHEpAtka0YVbMsSph9KtKfVt2a6bzCQ_Cx4Bxv1maUNS_WwtJVG_XS7OMVmzQVlsS1qLHNd1xGU55-DhtZaEIAEwAQ:appsfrontendserver=CgAQ3IqVrwYaewAJa4lXmO0eYtOHq1xXdnLtcxsGxgByFu68VRg2DjYAZUT7gaZe9pH1TT2lDJLpkgIvE9Ybs3rRXRJdnH6pf_4nqsK5SSpn5V0zJ8qCin5Toelp25BZCJT77iQzlzglV4DmBXRug0nwCDgkZjjOVwlgtRD3Bl4DAupZuzAB",
+      "domain": "calendar.google.com",
+      "path": "/",
+      "expires": 1710385398.930053,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "COMPASS",
+      "value": "feapi-server=CgAQ0fiUrwYaZwAJa4lXWfIBBcc8H6zsg9PN5j39sAE2XiBJoZ39skePCjVqTmPtzS-ysl0jMnWqQb9b0X3fgCqcaBTJKWDNCKhA1DV8rkUfk7gn-Ag9mvPBikNsCrYUDp7KcPa_9EUDiZaTGJgTO-MgATAB",
+      "domain": "calendar-pa.clients6.google.com",
+      "path": "/",
+      "expires": 1710385401.172117,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "NID",
+      "value": "512=F8vW2hFiX3H8byyg-qyA_XyZ3eRTnUD3HQUMGitqGOWrLWf9F0m_2EW2iI7LWaU1F5j3JkeSBnS0xnb6gUymZ0Y85I3X_6Yyquezv4PfwDSPRGbfEZIOPRTGjaZjvH7TlAHayaD32AJRapiWOCZBJueLcwcbBeTvvg5S76dxUoy16UbC1ERvS1Fo_yJtgmJuv1sQRjBTzW2oY1x1XMmhO9tNW3S-A2iLT96v-uwMO1B2Mx30qg",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1725333627.715175,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "NID",
+      "value": "512=IhILuixtYLuP4yfISyfQ5Yj_b29emz-M9kIflaCxJ9uzxEAJhz60C7MlMzDCw5RZ8Rh1vcvWBMPJZB81nyG4JE2zYbv21am2xzFzIMu5MPSyf6GjgLKw2NH3pibgBDG5M_83ny1CesluIfooB2tZrQt_Nbstuz24J-AGDfK4uIQBna9BzqHWMnKHxAjdf1D0zHCVZIBAHfgC2m33ImrqEcDcEuS0pSVu1bG13OsHI1fzxvW_WaXX9uvfU79vZ7qJRhNX7g",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1725333630.049486,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Secure-1PSIDTS",
+      "value": "sidts-CjEBYfD7Zwnh1JRIRUJSRRY9qCErd1uOV02UPZPmmF26w-gxaR2bMCej-W3HB00qKvzDEAA",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1741060532.577227,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSIDTS",
+      "value": "sidts-CjEBYfD7Zwnh1JRIRUJSRRY9qCErd1uOV02UPZPmmF26w-gxaR2bMCej-W3HB00qKvzDEAA",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1741060532.577363,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "1P_JAR",
+      "value": "2024-03-04-04",
+      "domain": ".google.com.br",
+      "path": "/",
+      "expires": 1712117001.96331,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "3gyB7RnBGKIomV5ITnreSVZncDH6UspXytQOPvQnbWQ-1709524964-1.0.1.1-RWjxB0DwzhXZpqWGf35.VbOc98TeKsSDgaaapnbVbWjkswoQU40aIBlMZtxXhBwLkvuikhbpGNTSQH6lkVXjCw",
+      "domain": ".leroymerlin.com.br",
+      "path": "/",
+      "expires": 1709526764.320212,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CONSISTENCY",
+      "value": "AK7wllH0LijfGnNGC9rrMtk7D9-Rtn_c887mygX5ntkJ94zm2v5D0f6Oy73ZmZSMJmSl9Y84YtIZg6j72tL-xdH1H0-_MWv7XHmkk0IHcI1llINGMHuYSWX2b-tlHXt7EyQlmhzj4CC6QXPC8JJ8hVbd6lx7DR7pFA==",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1709525309.036689,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SIDCC",
+      "value": "AKEyXzWQOa2Mx_MR4XjlsDe6doKjFa6h3v1QxtOdaK_4Ble3_tVYAfGFe--Hcrn53Hi8NNL-OII",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1741061009.35549,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PSIDCC",
+      "value": "AKEyXzVjTQ5D8hZaZ-PTSFfqSKDiCoeYxzZvmt1cR-4LPOT7ubTVy_MUit_B4pcvwjd-jTerrA",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1741061009.355681,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PSIDCC",
+      "value": "AKEyXzUbJgUKTe-fFctCDhK6ejTIfSHWj0uqFGw9RDttQNdGzHm0-w2cPD0yDOSdiyFy9c-vV3M",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1741061009.355721,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.leroymerlin.com.br",
+      "localStorage": [
+        {
+          "name": "cus40",
+          "value": "{\"data\":1,\"_expires\":2040679740000}"
+        },
+        {
+          "name": "ins-z",
+          "value": "{\"data\":\"W3siYyI6MTE4NCwidCI6IjM0YmE1NzEzM2YyNzczMzc3Mjc1YWZmOTAyNDEyNzBhYjZkMjk3MDEiLCJldCI6MTcxMDcwOTA0MDAwMH0seyJjIjoyODg1LCJ0IjoiOWQwZDNmOWQxNDZjM2VhMjcyYjYzNzdiNGJhOWM1YzI1NjQyZTdkMiIsImV0IjoxNzEwNzA5MDQwMDAwfSx7ImMiOjI5MTUsInQiOiJkYmEzNWM2MTIwYTJkZDBkYjRmZDYzMDE0ZjZmMjdkZmZmZDkzMmY0IiwiZXQiOjE3MTA3MDkwNDAwMDB9LHsiYyI6MjkxNywidCI6IjExMmM3OWVkOGE3YzM0MjhiZDJkMmYzMWU5ZTc0MWY1ZWFhNDc0MDYiLCJldCI6MTcxMDcwOTA0MDAwMH0seyJjIjozMTA0LCJ0IjoiOGM2YjExNmUwYTlhZTJmZGQ5NjNhOTMzYzFiMmYzNzgyOWYxZWM5NCIsImV0IjoxNzA5NTAxMjQwMDAwfSx7ImMiOjMxMjcsInQiOiJlNmZmNDY5MzU1YzY1Mjk5MWJhNTViODQ1YjIxNzhmMTUyYmM4MGJlIiwiZXQiOjE3MTA3MDkwNDAwMDB9LHsiYyI6MzE0NywidCI6ImU3ZjljZWRmNGY0ZDUzZTQ2MGEwZGRlYTY5MzNlYjhjNGIyZjkxN2MiLCJldCI6MTcwOTUwMTI0MDAwMH0seyJjIjozMjA2LCJ0IjoiMzE0MTMyMjlkZTJiY2VhMmZlNTcyMWIwYTczZThkZDg1NzgwMzlkMSIsImV0IjoxNzA5NTAxMjQwMDAwfSx7ImMiOjM1MDYsInQiOiI1MGI5NGRmNGQ4NzdjYzU5NmQzYjhhNDMwY2MxMWQxMTNhOTFjZTRjIiwiZXQiOjE3MTA3MDkwNDAwMDB9LHsiYyI6NDA1OCwidCI6ImI0NzcxOTY5M2MxZDQ5ZDBiNTM4ZWU2MmJiNjJlNTc5NTBjNmQ1MzIiLCJldCI6MTcxMDcwOTA0MDAwMH0seyJjIjo0MDYwLCJ0IjoiM2U3ZDBlNDI3NmFjNDJhZGRjMDNkMjFlOTQzMGQ2MTUxZmM4MjRjOCIsImV0IjoxNzEwNzA5MDQwMDAwfV0=\",\"_expires\":1709501241000}"
+        },
+        {
+          "name": "insCustomAttributes",
+          "value": "{\"data\":{\"tintas_visits\":false,\"lpdiadospais\":false,\"fidelidade_pontuacao_1000_2499\":false,\"fidelidade_pontuacao_2500_7499\":false,\"fidelidade_pontuacao_7500_high\":false,\"fidelidade_checked\":false,\"fidelidade_profissao\":true,\"expires_days\":0,\"is_activeted\":false,\"fidelidade_voucher_10\":false,\"fidelidade_voucher_35\":false,\"fidelidade_voucher_150\":false,\"visita_recorrente_produto\":false},\"_expires\":1741036102000}"
+        },
+        {
+          "name": "_uetvid_exp",
+          "value": "Fri, 28 Mar 2025 21:08:20 GMT"
+        },
+        {
+          "name": "ins-current-currency",
+          "value": "{\"data\":\"BRL\",\"_expires\":1709586501000}"
+        },
+        {
+          "name": "insUserInfoHash",
+          "value": "{\"data\":1184740588,\"_expires\":1741014290000}"
+        },
+        {
+          "name": "eng_mt",
+          "value": "{\"ver\":36,\"sessionStartTime\":1709500044332,\"scrollDepth\":83,\"sessionDepth\":[\"-174453522\"],\"timeOnSite\":0,\"crossSessionsData\":{\"sessionsHistory\":[1709478141875,1709500044332]},\"numOfTimesMetricsSent\":3}"
+        },
+        {
+          "name": "ins-landingPage",
+          "value": "{\"data\":\"https://www.leroymerlin.com.br/cadastre-se?redirect=https%3A%2F%2Fwww.leroymerlin.com.br%2Fminha-conta%2Fdados-pessoais\",\"_expires\":1712070143000}"
+        },
+        {
+          "name": "ins-sourceUrl",
+          "value": "{\"data\":\"\",\"_expires\":1712070143000}"
+        },
+        {
+          "name": "ins-wp-active-tab",
+          "value": "{\"data\":\"0.tgqtupkwytt\",\"_expires\":1709586501000}"
+        },
+        {
+          "name": "ins-score-points-opt-84093",
+          "value": "{\"data\":{},\"_expires\":1712092102000}"
+        },
+        {
+          "name": "_uetsid_exp",
+          "value": "Mon, 04 Mar 2024 21:08:20 GMT"
+        },
+        {
+          "name": "1506097:session-data",
+          "value": "v2_c5766d43be60312789808e6a70a03faf_79db4f12-d801-4060-81f2-c71e5da89d74-tuctcde167e_1709499439_1709500099_CNawjgYQsfZbGKnYlbHgMSAEKAMwHzjb1AdAgIgQSKOl2wNQ____________AVgAYABojrvQyZ2bmJBzcAE"
+        },
+        {
+          "name": "__cbsid",
+          "value": "d3e3f07acfb021aa8ddfec1dd842d60ef42c8ffe"
+        },
+        {
+          "name": "ins-userDateV",
+          "value": "{\"data\":[1709478143,1709480347,1709482412,1709484485,1709495205,1709499440],\"_expires\":1741035440000}"
+        },
+        {
+          "name": "ins-user-segments",
+          "value": "{\"data\":{\"113\":285,\"161\":357,\"193\":\"c116\",\"247\":526,\"254\":542,\"263\":560,\"264\":564,\"330\":\"c176\",\"356\":755,\"358\":759,\"372\":784,\"382\":802,\"400\":851,\"436\":\"c217\",\"520\":1088,\"541\":1121,\"542\":1122,\"543\":1125,\"583\":1184,\"643\":\"c274\",\"644\":\"c275\",\"685\":\"c284\",\"744\":1460,\"746\":1464,\"801\":1572,\"815\":\"c326\",\"816\":\"c328\",\"827\":1608,\"880\":1727,\"889\":\"c348\",\"901\":\"c345\",\"999\":1949,\"1000\":1951,\"1001\":1953,\"1002\":1955,\"1004\":\"c361\",\"1159\":\"c426\",\"1267\":2434,\"1270\":2440,\"1414\":\"c691\",\"1454\":\"c758\",\"1482\":2567,\"1539\":\"c970\",\"1540\":\"c971\",\"1542\":\"c922\",\"1545\":\"c929\",\"1576\":2649,\"1584\":\"c955\",\"1592\":2677,\"1594\":\"c960\",\"1638\":\"c983\",\"1643\":\"c982\",\"1644\":\"c985\",\"1688\":\"c1127\",\"1689\":\"c1141\",\"1716\":2797,\"1739\":\"c1147\",\"1740\":\"c1148\",\"1741\":2832,\"1749\":2847,\"1750\":2850,\"1788\":\"c1132\",\"1789\":\"c1134\",\"1790\":\"c1136\",\"1836\":2999,\"1841\":3009,\"1857\":\"c1181\",\"1861\":\"c1196\",\"1873\":3064,\"1891\":\"c1197\",\"1892\":\"c1166\",\"1894\":3104,\"1903\":\"c1178\",\"1904\":\"c1180\",\"1906\":\"c1183\",\"1921\":3138,\"1925\":3147,\"1930\":3157,\"1931\":3159,\"1932\":3161,\"1933\":3163,\"1938\":3173,\"1939\":3175,\"1940\":3177,\"1946\":3181,\"1948\":\"c1211\",\"1949\":\"c1213\",\"1950\":3183,\"1951\":3185,\"1952\":3187,\"1953\":3189,\"1954\":\"c1215\",\"1955\":\"c1217\",\"1956\":\"c1219\",\"1959\":\"c1221\",\"1960\":\"c1223\",\"1966\":\"c1226\",\"1967\":\"c1229\",\"1968\":\"c1231\",\"1969\":\"c1233\",\"1970\":\"c1234\",\"1971\":\"c1237\",\"1977\":\"c1243\",\"1987\":\"c1258\",\"1991\":3229,\"1994\":3236,\"1995\":3238,\"2007\":\"c1260\",\"2009\":3261,\"2014\":3271,\"2023\":3287,\"2024\":3289,\"2025\":3291,\"2026\":3293,\"2027\":3295,\"2028\":3297,\"2029\":3299,\"2030\":3301,\"2031\":3303,\"2032\":3305,\"2039\":3317,\"2040\":3319,\"2042\":3323,\"2043\":3325,\"2044\":3327,\"2087\":\"c1276\",\"2090\":\"c1277\",\"2104\":\"c1294\",\"2106\":3423,\"2115\":3440,\"2117\":3444,\"2128\":\"c1301\",\"2129\":\"c1303\",\"2131\":3465,\"2152\":3506,\"2178\":\"c1312\",\"2179\":3553,\"2180\":3555,\"2181\":3557,\"2182\":3559,\"2185\":3562,\"2186\":3564,\"2187\":3566,\"2207\":\"c1324\",\"2208\":\"c1317\",\"2223\":\"c1329\",\"2224\":\"c1331\",\"2225\":\"c1333\",\"2226\":\"c1335\",\"2227\":\"c1337\",\"2230\":3634,\"2231\":3636,\"2239\":\"c1345\",\"2266\":\"c1347\",\"2299\":\"c1349\",\"2301\":\"c1353\",\"2302\":3777,\"2318\":\"c1360\",\"2319\":\"c1362\",\"2320\":\"c1364\",\"2321\":\"c1366\",\"2322\":\"c1368\",\"2323\":\"c1370\",\"2324\":\"c1372\",\"2325\":\"c1374\",\"2326\":\"c1376\",\"2327\":\"c1378\",\"2372\":3886,\"2390\":\"c1417\",\"2391\":\"c1418\",\"2393\":\"c1420\",\"2487\":\"c1567\",\"2490\":\"c1573\",\"2491\":\"c1574\",\"2494\":\"c1565\",\"2499\":3957,\"2500\":3960,\"2509\":3977,\"2513\":3985,\"2514\":3987,\"2525\":\"c1580\",\"2550\":4058,\"2551\":4060,\"2552\":4063,\"2553\":4065,\"2555\":\"c1582\",\"2556\":\"c1584\",\"2567\":4077,\"2568\":4079,\"2571\":4085,\"2575\":4093,\"2576\":4095,\"2580\":4103,\"2594\":4123,\"2600\":4135,\"2657\":\"c1689\",\"2658\":\"c1690\",\"2662\":4176,\"2668\":4196,\"2669\":4198,\"2671\":4206,\"2672\":4211,\"2673\":4213,\"2676\":4220,\"2677\":4221,\"2701\":4273,\"2702\":4276,\"2703\":4278,\"2704\":4280,\"2705\":4282,\"2707\":4286,\"2708\":4288,\"2709\":4290,\"2710\":4292,\"2718\":4304,\"2719\":4306,\"2720\":4308,\"2721\":4310,\"2722\":4312,\"2723\":4314,\"2724\":4316,\"2725\":4318,\"2726\":4320,\"2727\":4322,\"2728\":4324,\"2729\":4326,\"2730\":4328,\"2731\":4330,\"2732\":4332,\"2733\":4334,\"2734\":4336,\"2735\":4338,\"2736\":4340,\"2737\":4342,\"2738\":4344,\"2739\":4346,\"2740\":4348,\"2741\":4350,\"2742\":4352,\"2743\":4354,\"2744\":4356,\"2745\":4358,\"2746\":4360,\"2747\":4362,\"2748\":4364},\"_expires\":1709503701000}"
+        },
+        {
+          "name": "ins-default-attributes",
+          "value": "{\"data\":{\"last_abandoned_cart_amount\":0,\"last_visited_category_url\":\"https://www.leroymerlin.com.br/\",\"last_visited_product_img\":\"https://image.useinsider.com/leroymerlinbr/webPushDefaultImage/qBHGAPQqnzS7wVVWo3EY1623868422.jpeg\",\"last_visited_product_url\":\"https://www.leroymerlin.com.br/\",\"last_abandoned_product_img\":\"https://image.useinsider.com/leroymerlinbr/webPushDefaultImage/qBHGAPQqnzS7wVVWo3EY1623868422.jpeg\",\"last_abandoned_product_url\":\"https://www.leroymerlin.com.br/\"},\"_expires\":1741036101000}"
+        },
+        {
+          "name": "userLocation",
+          "value": "{\"data\":{\"geoId\":\"3449433\",\"city\":\"Santos\",\"region\":\"Sao Paulo\",\"regionId\":\"SP\",\"country\":\"BR\",\"cName\":\"Brazil\",\"request\":\"8cbd70c9d0a20670b6469ab1f5d38423\",\"latitude\":\"316a824f1691cb3383613c3632c1a323\",\"longitude\":\"ed8d237ac7f911818bb47b3b4ca03ed0\"},\"_expires\":1709564544000}"
+        },
+        {
+          "name": "_uetsid",
+          "value": "099d53e0d96f11ee97f15d288485130b"
+        },
+        {
+          "name": "insUserPermissionGranted",
+          "value": "{\"data\":{\"state\":null},\"_expires\":1741036102000}"
+        },
+        {
+          "name": "ins-lead-spuid",
+          "value": "{\"data\":\"17094781433226031854061.10b29266\",\"_expires\":1709500111000}"
+        },
+        {
+          "name": "cus29",
+          "value": "{\"data\":1,\"_expires\":2040676680000}"
+        },
+        {
+          "name": "ins-oferta-storage-134611",
+          "value": "{\"data\":{\"89836971\":\"Oferta -6%\",\"89841822\":\"Oferta -5%\",\"89998916\":\"Oferta -14%\",\"91066640\":\"Oferta -9%\",\"92091951\":\"Oferta -18%\",\"1566805778\":\"Oferta -52%\",\"1566805779\":\"Oferta -52%\",\"1567466329\":\"Oferta -4%\",\"1567755267\":\"Oferta -8%\",\"1567865416\":\"Oferta -4%\",\"1571731167\":\"Oferta -4%\"},\"_expires\":1717254143000}"
+        },
+        {
+          "name": "ins-gaSSId",
+          "value": "{\"data\":{\"id\":\"bkhcy295-2fzg-7j4m-bqgx-crs5176fkzwu_1709499440\",\"day\":0},\"_expires\":1709501907000}"
+        },
+        {
+          "name": "cus71",
+          "value": "{\"data\":1,\"_expires\":2050255200000}"
+        },
+        {
+          "name": "taboola global:user-id",
+          "value": "79db4f12-d801-4060-81f2-c71e5da89d74-tuctcde167e"
+        },
+        {
+          "name": "cus39",
+          "value": "{\"data\":1,\"_expires\":2040679680000}"
+        },
+        {
+          "name": "crmback-org",
+          "value": "87030070-0c72-11ee-8757-97215540f96b"
+        },
+        {
+          "name": "cus35",
+          "value": "{\"data\":1,\"_expires\":2040678960000}"
+        },
+        {
+          "name": "crmb-customer-checked",
+          "value": "1709478142724"
+        },
+        {
+          "name": "crmback-session",
+          "value": "U2FsdGVkX1+SM2B0fBcJ2Mn6k0+bCbIJRfuzO7qqFj525etvog8K1sF2FSuiGG5qyuj/axV74Qcjq7QFcxrP8A=="
+        },
+        {
+          "name": "ins-uVDate",
+          "value": "{\"data\":[1709478143,1709480347,1709482412,1709484485,1709495205,1709499440],\"_expires\":1741035440000}"
+        },
+        {
+          "name": "predictiveData",
+          "value": "{\"data\":{\"1018d9ebe17802e3a7abc41e974cda6b\":86400000,\"d8d8bd013206b40b0f9df29014823891\":{},\"0f373f5e598d95a0b264b1c4421fa377\":{\"visita_recorrente_produto\":\"false\",\"fidelidade_profissao\":\"true\",\"fidelidade_pontuacao_2500_7499\":\"false\",\"is_activeted\":\"false\",\"expires_days\":\"0.0\",\"lpdiadospais\":\"false\",\"tintas_visits\":\"false\",\"fidelidade_voucher_35\":\"false\",\"fidelidade_pontuacao_1000_2499\":\"false\",\"fidelidade_pontuacao_7500_high\":\"false\",\"fidelidade_voucher_10\":\"false\",\"fidelidade_voucher_150\":\"false\",\"fidelidade_checked\":\"false\"},\"187f6986e3b3e86a2e8faf46a1e32ba9\":\"350bcf2666469728f4c631aadc2a10a0\",\"9d3ed432c2f97018fbaa7c1bc2d34852\":\"350bcf2666469728f4c631aadc2a10a0\",\"da307ca00f0e89ba4511676507e4388d\":\"350bcf2666469728f4c631aadc2a10a0\",\"9c866122e51dcafc91a6029010bb502d\":\"unknown\",\"7c4a40db3265c5d9b88d9355ba812af7\":{},\"f5c6b429c5484576abf7d98dc92a0279\":\"03059aca4f8106515decc55ec1dbedff\",\"17f0c9acace0f03f7382903a49337be2\":{},\"faecf0ae7b171727a00570609c7767c3\":\"350bcf2666469728f4c631aadc2a10a0\",\"eb8240a3e9927ef5472ba11ff187d5a0\":\"2024-03-03 15:02:23\",\"d7ba44beec2efef1c778825afb0f31be\":{\"4150b6e5f73cd38adfbdfde4655568fe\":\"350bcf2666469728f4c631aadc2a10a0\",\"de68a03138914d156bb9aac37ca45d8f\":\"350bcf2666469728f4c631aadc2a10a0\",\"2593398b0403ffa55c655baf29c9411a\":\"350bcf2666469728f4c631aadc2a10a0\"},\"a1cb18375cbd82ed4552a2f38053a30c\":{},\"7bd18c1d8530276b9658712908083c8a\":\"350bcf2666469728f4c631aadc2a10a0\",\"2836626cbce621092a1e5d6f2ef0e988\":\"350bcf2666469728f4c631aadc2a10a0\",\"78a8e4fa2b74a43bb3ba1da68788461c\":\"350bcf2666469728f4c631aadc2a10a0\",\"b9a33396bd050197ce0d55f545a4e8ce\":\"17094781433226031854061.10b29266\"},\"_expires\":1709564690585}"
+        },
+        {
+          "name": "__rmco",
+          "value": "{\"channelIds\":{\"attr_sid\":\"124373\",\"aff_mid\":\"47732\"},\"scope\":\"lgpd\",\"version\":\"2\",\"productConsents\":{\"ranTrkInt\":true,\"ranTrkExt\":true,\"ranAut\":true,\"ranCGE\":true,\"rtbRet\":true,\"rtbPro\":true,\"cadTrk\":true,\"dspTrk\":true},\"execStatus\":1,\"consentSought\":false,\"sourceDomain\":\"www.leroymerlin.com.br\",\"rmPurposeConsents\":[],\"rmVendorConsents\":[],\"id\":\"da55d09a-61d5-4a1f-ba04-3e84510d6ed2\",\"scnt\":2,\"maxAge\":1710085145890}"
+        },
+        {
+          "name": "ins-profession-checked-opt-84093",
+          "value": "{\"data\":false,\"_expires\":1712092102000}"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1709500100680"
+        },
+        {
+          "name": "spUID",
+          "value": "{\"data\":\"17094781433226031854061.10b29266\",\"_expires\":1741036101000}"
+        },
+        {
+          "name": "cus38",
+          "value": "{\"data\":1,\"_expires\":2040679560000}"
+        },
+        {
+          "name": "_grecaptcha",
+          "value": "09AOiBZIBNXHjH84F4TRZJiaqDyKic6Fx6WoxYRbsouhJ04NfyRIAPlX0k-jnosqeBsI9XRu4m0YzNfhfD3wWvpGQL8mHAGndOVAp5dg"
+        },
+        {
+          "name": "_uetvid",
+          "value": "099d7e40d96f11eea0d25b58f7bf9249"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "ZXpneHl3ZXY2MHhr"
+        },
+        {
+          "name": "rc::f",
+          "value": "0aAOiBZICIouoJIyqotK3pVnSwdigUT9KVifjtD6fQSoDY_2fWCSmFSqCFtwRNt79ylcSkdCs"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com.br",
+      "localStorage": [
+        {
+          "name": "_c;;i",
+          "value": "p:*|l:9007199254740991_534"
+        },
+        {
+          "name": "LH;;s-CUjlZfW4FZ7L1sQPuI6GkAE-dt-2",
+          "value": "p:m|l:533_{\"payload\":\"&v=t1&ei=CUjlZfW4FZ7L1sQPuI6GkAE&im=M&pv=0.3349117897224716&me=10:1709525002702,V,0,0,0,0:416,e,U\",\"ka\":1709525003119}"
+        },
+        {
+          "name": "sb_wiz.ueh",
+          "value": "a025efd7603cb281257e96bfebd76eb26385fb1f"
+        },
+        {
+          "name": "sb_wiz.zpc.gws-wiz.",
+          "value": "{\"0\":[[\"microsoft\",35,[362,39],{\"du\":\"/complete/deleteitems?client=gws-wiz&delq=microsoft&deltok=AMc44K7hbXR41UwdY81IW5Ezcwr-vD-Svw\",\"zf\":27}]],\"1\":{\"q\":\"EmW9uYdRYdxnVtrpVwrY3l6upmA\"}}"
+        }
+      ]
+    },
+    {
+      "origin": "https://calendar.google.com",
+      "localStorage": [
+        {
+          "name": "pse/591286274::[[8,1],\"103305048617540229755\"]",
+          "value": "Ch9bWzgsMV0sIjEwMzMwNTA0ODYxNzU0MDIyOTc1NSJdEjAKDggBwgYEIAAoAOIGAggAEhUxMDMzMDUwNDg2MTc1NDAyMjk3NTUYwNBoGLiZoSIYsqaLu+AxIgppZzg3Z2dpcHpt"
+        },
+        {
+          "name": "pse/591286274::[[8,7],\"103305048617540229755\"]",
+          "value": "Ch9bWzgsN10sIjEwMzMwNTA0ODYxNzU0MDIyOTc1NSJdEi8KDQgH2gYIKAAwAVgAYAASFTEwMzMwNTA0ODYxNzU0MDIyOTc1NRi4maEiGMDQaBiIqIu74DEiCmdhcnJhYndyZmc="
+        }
+      ]
+    },
+    {
+      "origin": "https://accounts.google.com",
+      "localStorage": [
+        {
+          "name": "nextRotationAttemptTs",
+          "value": "1709525132331"
+        }
+      ]
+    },
+    {
+      "origin": "https://contacts.google.com",
+      "localStorage": [
+        {
+          "name": "pse/591286274::[[31,4],\"103305048617540229755\"]",
+          "value": "CiBbWzMxLDRdLCIxMDMzMDUwNDg2MTc1NDAyMjk3NTUiXRIkCgIIBBIVMTAzMzA1MDQ4NjE3NTQwMjI5NzU1GLiZoSIYwNBoGIaU6bzgMSIKNm9rdXQxYXE4eQ=="
+        }
+      ]
+    }
+  ]
+}
