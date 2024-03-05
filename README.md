@@ -10,7 +10,7 @@ Instale as dependências necessárias executando os seguintes comandos no termin
 
 ```bash
 npm init -y
-
+### Instalar Playzinho
 ```bash
 npm install playwright @cucumber/cucumber chai
 
