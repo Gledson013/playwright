@@ -34,14 +34,16 @@ npm install --save-dev cucumber-html-reporter
 node generate-report.js
 npx cucumber-js --format json:test-results/cucumber_report.json
 Executando os Testes
-Para executar os testes do desafio de front-end, utilize o comando:
+Para executar os testes, utilize o comando:
 
 bash
 Copy code
 npm test
-E para iniciar os testes do desafio de back-end, use:
-
-bash
-Copy code
-npx playwright test
 Certifique-se de ter configurado os scripts de teste apropriadamente no seu arquivo package.json.
+
+Esse README é um guia básico e você pode expandi-lo conforme necessário para seu projeto e repositório específicos.
+
+perl
+Copy code
+
+Para adicionar isso ao seu GitHub, crie um arquivo `README.md` na raiz do seu projeto com o conteúdo acima. Em seguida, use os comandos `git add`, `git commit` e `git push` para adicionar, comitar e enviar o arquivo README para o seu repositório remoto no GitHub.
