@@ -1,49 +1,45 @@
-# Automação Playwright com Cucumber
+# Automação de Testes com Playwright e Cucumber
 
-Este projeto é uma automação de testes usando Playwright e Cucumber.
+Este projeto utiliza Playwright e Cucumber para automação de testes de front-end e back-end.
 
 ## Configuração Inicial
 
-Para configurar este projeto, execute os seguintes comandos no terminal:
+Siga os passos abaixo para configurar o ambiente do projeto.
+
+### Instalação de Pacotes
+
+Instale as dependências necessárias executando os seguintes comandos no terminal:
 
 ```bash
 npm init -y
-npm install playwright
-npm install @cucumber/cucumber
-npm install chai
-npm install --save-dev @types/chai
-npm install --save-dev @types/node
-npm install --save-dev typescript
+npm install playwright @cucumber/cucumber chai
+npm install --save-dev @types/chai @types/node typescript
 tsc --init
-Instalação de Dependências Adicionais
-Instale as dependências adicionais necessárias para o projeto:
+npm install @faker-js/faker gerador-validador-cpf dotenv
+npm install --save-dev eslint eslint-plugin-cucumber cucumber-html-reporter
 
-bash
-Copy code
-npm install @faker-js/faker
-npm install gerador-validador-cpf
-npm install dotenv
-npm install eslint --save-dev
-npm install eslint-plugin-cucumber --save-dev
-Gerando Relatórios
-Para gerar relatórios a partir dos testes, use os seguintes comandos:
+Configuração do Relatório HTML
+Gere relatórios HTML dos testes com o seguinte comando:
 
-bash
-Copy code
-npm install --save-dev cucumber-html-reporter
 node generate-report.js
-npx cucumber-js --format json:test-results/cucumber_report.json
-Executando os Testes
-Para executar os testes, utilize o comando:
 
-bash
-Copy code
+Executando Testes
+Execute os testes com os comandos abaixo:
+
+Para testes do desafio de front-end:
 npm test
-Certifique-se de ter configurado os scripts de teste apropriadamente no seu arquivo package.json.
 
-Esse README é um guia básico e você pode expandi-lo conforme necessário para seu projeto e repositório específicos.
+Para testes de back-end:
+npx playwright test
 
-perl
-Copy code
+Certifique-se de ajustar os scripts no seu arquivo package.json conforme necessário para refletir estes comandos.
 
-Para adicionar isso ao seu GitHub, crie um arquivo `README.md` na raiz do seu projeto com o conteúdo acima. Em seguida, use os comandos `git add`, `git commit` e `git push` para adicionar, comitar e enviar o arquivo README para o seu repositório remoto no GitHub.
+Execução dos Comandos de Teste
+Use o formato JSON para executar os testes e gerar relatórios:
+npx cucumber-js --format json:test-results/cucumber_report.json
+
+Comandos Adicionais
+Para funcionalidades adicionais ou execução de tarefas específicas, use os comandos a seguir conforme necessário:
+
+
+
