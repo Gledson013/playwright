@@ -1,3 +1,3 @@
-const locators = {
+// const locators = {
     
-}
+// }
