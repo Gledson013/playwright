@@ -37,10 +37,10 @@ AfterAll(async () => {
         }
         await page.waitForTimeout(50);
 
-        if (browser) {
-                await browser.close(); // Closes the browser
-                browser = null;
-        }
+        // if (browser) {
+        //         await browser.close(); // Closes the browser
+        //         browser = null;
+        // }
 });
 
 Given('que estou na página de criação de registro', async () => {
@@ -49,7 +49,6 @@ Given('que estou na página de criação de registro', async () => {
         await registerPage.goToRegistrationPage();  
     
 });
-
 
 When('eu preencho todos os campos obrigatórios', async () => {
  

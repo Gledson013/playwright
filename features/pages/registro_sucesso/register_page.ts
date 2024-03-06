@@ -1,6 +1,7 @@
-// register_page.ts
+
 import { Page } from 'playwright';
 import { expect } from '@playwright/test';
+import { LOCATORS } from './locators';
 
 
 export class RegisterPage {
@@ -13,14 +14,16 @@ export class RegisterPage {
     async goToRegistrationPage() {
 
         await this.page.goto('https://www.google.com.br/');   
-        // PODE SER UTILIZADO PARA LOGIN
+        
+        // Realizar LOGIN a primeiva vez e após comentar pois o login fica salvo
+        await this.page.getByLabel('Fazer login').click();
+        await this.page.getByLabel('E-mail ou telefone').fill('qm.frontend@gmail.com');
+        await this.page.getByLabel('E-mail ou telefone').press('Enter');
+        await this.page.getByLabel('Digite sua senha').fill('QM2024meta*');
+        await this.page.getByLabel('Digite sua senha').press('Enter');
+        // Comentar até aqui
 
-        // await page.getByLabel('Fazer login').click();
-        // await page.getByLabel('E-mail ou telefone').fill('qm.frontend@gmail.com');
-        // await page.getByLabel('E-mail ou telefone').press('Enter');
-        // await page.getByLabel('Digite sua senha').fill('QM2024meta*');
-        // await page.getByLabel('Digite sua senha').press('Enter');
-        await this.page.getByLabel('Google apps').click();
+        await this.page.click(LOCATORS.googleAppsButton);  // Uso do xpath na camada locators.ts
     }
 
     async fillForm() {
@@ -28,12 +31,10 @@ export class RegisterPage {
         await this.page.getByRole('button', { name: 'Create contact' }).click();
         await this.page.getByLabel('Create a contact').click();
         await this.page.getByLabel('First name').fill('Navio de Cafe 800T');
-        //await this.page.getByLabel('First name').press('Tab');
     }
 
     async selectDate() {
         await this.page.getByLabel('Last name').fill('25/05/2024 - 7 Dias');
-        // Se necessário, adicione mais ações relacionadas à seleção da data
     }
 
     async submitForm() {
